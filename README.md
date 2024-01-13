@@ -1,2 +1,2 @@
 # datafun-utils-01
-Python Repo
+Reusable utilities for my Python projects
